@@ -53,4 +53,8 @@ Button
 
 Download all the necessary libries in the Libraries Folder. Then download the Arduino script, the ESP8266 code, and upload 
 them to Arduino board. Then set up the ESP8266 server and connect it to the Google Home. And now you can control the Rain Barrel 
-with your Google Assistant! 
+with your Google Assistant!
+
+## Helpful Links
+
+[Speak to Arduino and Control It with Google Assistant](https://create.arduino.cc/projecthub/electropeak/speak-to-arduino-and-control-it-with-google-assistant-3791ee)
