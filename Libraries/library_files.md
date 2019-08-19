@@ -2,7 +2,7 @@
 
 Make sure you first download [Adafruit Unified Sensor Library](https://github.com/adafruit/Adafruit_Sensor)
 
-In this text file, are the links for the 3 libraries used in this project. They can all be downloaded from GitHub. In order to use in Arduino, for either [DHT11](https://github.com/adafruit/DHT-sensor-library) or [BMP388](https://github.com/adafruit/Adafruit_BMP3XX) one follow these instructions:
+In this file are the links for the 3 libraries used in this project. They can all be downloaded from GitHub. In order to use in Arduino, for either [DHT11](https://github.com/adafruit/DHT-sensor-library) or [BMP388](https://github.com/adafruit/Adafruit_BMP3XX) one follow these instructions:
 
 1) Click the DOWNLOADS button in the top right corner
 2) rename the uncompressed folder 'folder-name'. (Could be DHT or BMP)
